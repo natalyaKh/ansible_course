@@ -1,0 +1,7 @@
+#
+-
+ name: Check ping
+ hosts: db_and_web_server1, db_and_web_server2
+ tasks:
+   - name: ping
+     ping: 

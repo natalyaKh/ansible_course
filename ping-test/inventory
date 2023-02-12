@@ -1,0 +1,2 @@
+db_and_web_server1 ansible_ssh_password=osboxes.org ansible_host=192.168.14.147
+db_and_web_server2 ansible_ssh_password=osboxes.org ansible_host=192.168.14.109
